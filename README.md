@@ -41,7 +41,7 @@ Grade: A
 
 ### How does it work?
 
-Ths project was firstly made using Google Colaboratory, also known as Colab, is a cloud-based platform provided by Google 
+This project was made using Google Colaboratory, also known as Colab, is a cloud-based platform provided by Google 
 that offers free access to Jupyter notebooks and a computing environment with GPU support. 
 
 Here is the link of the Colab [ here](https://colab.research.google.com/drive/1Ze7zxpjYKScQ3rFvqFimAFnMUCJJtSZt?usp=sharing).
@@ -52,4 +52,4 @@ Can also be found in this Github Repository.
 ### ToDo
 - [ ] Translate code
 - [ ] Add revised code for certain algorithms
-- [X] Transalate text, description from FR to ENG
+- [X] Translate text, description from FR to ENG
